@@ -1,6 +1,4 @@
-import JSZip from 'jszip';
-import { saveAs } from 'file-saver';
-
+// DOM Elements
 const textInput = document.getElementById('text');
 const fontFamilySelect = document.getElementById('font-family');
 const fontVariantSelect = document.getElementById('font-variant');
