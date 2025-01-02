@@ -13,3 +13,5 @@ This will install the dependencies.
 This will start a local server on http://localhost:5173/
 
 Alternatively, you can copy the **index.html** and **src/script.js** on a local web server
+
+![Exemplu](screenshot.jpg)
