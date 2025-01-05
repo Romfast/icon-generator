@@ -2,7 +2,7 @@
  Text icon generator
 
  ## Demo
-https://mariusmutu.github.io/icon-generator/
+https://romfast.github.io/icon-generator/
 
  ## Usage
 To run the project locally, you need to have Node.js and pnpm installed. Then, run the following commands:
